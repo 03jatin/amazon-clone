@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "firebase": "^10.5.2"
+  },
+  "name": "amazon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "^c"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
